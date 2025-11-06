@@ -1,0 +1,15 @@
+{
+  "upcoming": [
+    {
+      "title": "Consulting Panel Night",
+      "date": "Nov 20, 2025",
+      "location": "Lazaridis Hall LH1001",
+      "blurb": "Alumni at Deloitte, IBM, and RBC share recruiting tips.",
+      "rsvp": "#"
+    }
+  ],
+  "past": [
+    { "title": "Case Interview 101", "when": "Sep 2025", "linkText": "Slides", "href": "#" },
+    { "title": "Intro to Web Dev Sprint", "when": "Oct 2025", "linkText": "GitHub", "href": "#" }
+  ]
+}
