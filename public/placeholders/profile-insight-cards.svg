@@ -1,0 +1,12 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="1200" height="800" rx="32" fill="#F5F2EB"/>
+  <rect x="80" y="96" width="1040" height="152" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="80" y="280" width="1040" height="424" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="120" y="320" width="280" height="168" rx="12" fill="#F3F4F6"/>
+  <rect x="440" y="320" width="600" height="36" rx="8" fill="#D1D5DB"/>
+  <rect x="440" y="368" width="520" height="24" rx="8" fill="#E5E7EB"/>
+  <rect x="440" y="412" width="560" height="24" rx="8" fill="#E5E7EB"/>
+  <rect x="120" y="520" width="920" height="32" rx="8" fill="#E5E7EB"/>
+  <rect x="120" y="568" width="680" height="24" rx="8" fill="#E5E7EB"/>
+  <text x="120" y="180" fill="#111827" font-family="Inter" font-size="32" font-weight="700">Profile Insight Cards</text>
+</svg>

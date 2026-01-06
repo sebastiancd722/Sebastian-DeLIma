@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="1200" height="800" rx="32" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="160" y="180" width="880" height="440" rx="18" fill="#F5F2EB"/>
+  <rect x="200" y="220" width="160" height="120" rx="12" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2"/>
+  <rect x="400" y="220" width="160" height="120" rx="12" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2"/>
+  <rect x="600" y="220" width="160" height="120" rx="12" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2"/>
+  <rect x="800" y="220" width="160" height="120" rx="12" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2"/>
+  <rect x="200" y="380" width="760" height="80" rx="12" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2"/>
+  <text x="180" y="160" fill="#111827" font-family="Inter" font-size="28" font-weight="700">Controls Microinteraction Lab</text>
+</svg>
