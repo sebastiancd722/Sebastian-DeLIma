@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-sand text-graphite font-sans antialiased;
+}
+
+a {
+  @apply text-graphite underline-offset-4;
+}
+
+a:hover {
+  @apply text-steel;
+}
+
+.container-grid {
+  @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.card-surface {
+  @apply bg-white border border-cloud rounded-xl shadow-sm;
+}
+
+.badge {
+  @apply inline-flex items-center rounded-full bg-cloud px-3 py-1 text-xs font-medium text-steel;
+}
+
+button:focus-visible,
+a:focus-visible {
+  @apply outline-none ring-2 ring-graphite ring-offset-2 ring-offset-sand;
+}
